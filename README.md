@@ -59,8 +59,8 @@
       <p>AI-тренажёр переговоров с интеграцией Groq. Генерация сценариев, оценка аргументов, обратная связь в реальном времени.</p>
     </td>
     <td width="50%">
-      <h3><a href="https://github.com/ApollieKastro/tg-tui">tg-tui</a> · Rust</h3>
-      <p>Терминальный Telegram-клиент с аккуратным TUI: быстрые навигация, поиск и работа с диалогами без браузера.</p>
+      <h3><a href="https://github.com/ApollieKastro/MinimalStartPageBrowser">MinimalStartPageBrowser</a> · HTML</h3>
+      <p>Минималистичная локальная стартовая страница в стиле терминала — быстрый старт браузера без лишнего шума.</p>
     </td>
   </tr>
   <tr>
